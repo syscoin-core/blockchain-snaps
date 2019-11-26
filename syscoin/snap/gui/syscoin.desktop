@@ -1,0 +1,15 @@
+# http://standards.freedesktop.org/desktop-entry-spec/desktop-entry-spec-1.0.html
+[Desktop Entry]
+Type=Application
+Version=1.0.1
+Encoding=UTF-8
+Name=Syscoin
+Icon=${SNAP}/syscoin128.png
+MimeType=x-scheme-handler/syscoin;
+Exec=syscoin %u
+Terminal=false
+Categories=Office;Finance;
+Comment=Syscoin P2P Cryptocurrency
+Keywords=internet;syscoin;
+Comment[fr]=Syscoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Syscoin, eşten eşe kriptografik sanal para birimi
